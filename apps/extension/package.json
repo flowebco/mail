@@ -1,6 +1,6 @@
 {
     "name": "@mailflare/extension",
-    "version": "2.1.0",
+    "version": "3.0.0",
     "private": true,
     "description": "MailFlare - Email Alias Extension",
     "type": "module",
